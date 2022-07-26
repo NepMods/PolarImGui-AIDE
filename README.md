@@ -37,7 +37,7 @@ From there, you will be presented with two additional folders. Choose the folder
 3. Then, find your applications launch activity, and place the following code under the 'onCreate' method in that launch activity.
 
 ```
-const-string v0, "native-lib"
+const-string v0, "MyLibName"
 invoke-static {v0}, Ljava/lang/System;->loadLibrary(Ljava/lang/String;)V
 ```
 
