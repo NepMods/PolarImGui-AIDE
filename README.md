@@ -47,5 +47,3 @@ invoke-static {v0}, Ljava/lang/System;->loadLibrary(Ljava/lang/String;)V
 
 ## Notes
 * This was the first ImGui Android implementation for Unity-based games using il2cpp, before people (whom we won't mention) leeched from it to create their own version. Yes, we will be updating the menu with new features when we can.
-
-<img width="1276" alt="POLARMODS-BANNER-HQ-2" src="https://user-images.githubusercontent.com/64957743/173014961-edc5c55f-8dca-4c39-a1aa-c3a22f8beb22.png">
